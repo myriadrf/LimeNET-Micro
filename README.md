@@ -1,6 +1,6 @@
 # LimeNET-Micro
 
-[LimeNET-Micro board](/images/LimeNET-Micro_722w.jpg)
+![LimeNET-Micro board](/images/LimeNET-Micro_722w.jpg)
 
 The [LimeNET Micro](https://www.crowdsupply.com/lime-micro/limenet-micro) makes deploying wireless networks more accessible than ever before, by extending the LimeNET line of integrated hardware solutions via an ultra-low cost platform that is capable of supporting narrowband systems, such as GSM and IoT wireless standards, in a stand-alone configuration.
 
