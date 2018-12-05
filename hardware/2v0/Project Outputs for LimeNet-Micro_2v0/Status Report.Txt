@@ -1,0 +1,10 @@
+Output: Electrical Rules Check
+Type  : ERC
+From  : Project [LimeNet-Micro_2v0.PrjPcb]
+   Generated File[LimeNet-Micro_2v0.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:07:46 On 2018-11-13
