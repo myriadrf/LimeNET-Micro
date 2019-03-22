@@ -1,0 +1,14 @@
+Changes:
+
+LimeNet-Micro_2v1-SDR(_DB)_DFMr0:
+ - Initial version
+
+LimeNet-Micro_2v1-SDR(_DB)_DFMr1:
+ - R77 changed from 10k to 22R (made same as ex. R135);
+ - R114 made NF;
+ - J26 made FIT;
+ - New schematic and BOM (revision r1) generated.
+ 
+LimeNet-Micro_2v1-SDR(_DB)_DFMr2:
+ - R107 changed from 10k to 22R (made same as ex. R135);
+ - New schematic and BOM (revision r2) generated.

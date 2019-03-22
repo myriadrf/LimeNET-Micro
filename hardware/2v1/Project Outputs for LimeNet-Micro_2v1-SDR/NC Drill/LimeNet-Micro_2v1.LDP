@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: d:\Lime\LimePCBs\LimeNET-Micro_2v1\Altium Designer design files\PCB\LimeNet-Micro_2v1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=limenet-micro_2v1-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=limenet-micro_2v1-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
