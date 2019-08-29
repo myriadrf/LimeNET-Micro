@@ -43,7 +43,7 @@ The [LimeNET Micro](https://www.crowdsupply.com/lime-micro/limenet-micro) makes 
   * RJ45 connector for Ethernet and IEEE 802.3 active Power-over-Ethernet (PoE)
   * DDR2 SODIMM connector - only usable for Raspberry Pi Compute Module 3 (or Lite)
   * MicroSD slot for RPi Compute Module storage
-  * Barrel connector for 12 V DC power
+  * Barrel connector for 5 V DC power
   * Micro-USB for USB boot of Compute Module
 * **Clock system:**
   * 30.72 MHz OCXO: Rakon U7475LF
